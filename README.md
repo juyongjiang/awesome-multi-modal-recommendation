@@ -121,6 +121,12 @@ Markdown Format:
 
   *ACML 2019*
 
+* Personalized Hashtag Recommendation for Micro-videos [[PDF]](https://arxiv.org/pdf/1908.09987.pdf)
+
+  Yinwei Wei, Zhiyong Cheng, Xuzheng Yu, Zhou Zhao, Lei Zhu, Liqiang Nie
+
+  *ACM MM 2019*
+
 ### 2017
 * Hashtag Recommendation for Multimodal Microblog Using Co-Attention Network [[PDF]](https://www.ijcai.org/proceedings/2017/0478.pdf)
 
