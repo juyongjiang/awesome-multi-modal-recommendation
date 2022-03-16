@@ -8,7 +8,7 @@ A curated list of awesome Multi-modal Recommendation resources. Inspired by [awe
 With the explosive growth of the amount of information on the Internet, recommender systems play a crucial role to alleviate the problem of information overload. To achieve higher quality and personalized recommendation service, it is of crucial importance to consider the transition between users and items as well as the item contents or attributes from various modalities (e.g., visual, acoustic, and textual). 
 
 <p align="center">
-  <img src="multi-modal.png" alt="ANCE" width="700">
+  <img src="multi-modal.png" alt="ANCE" width="500">
   <br>
   <b>Figure 1.</b> Multi-modal Recommendation. [Source from paper [MMGCN: Multi-modal Graph Convolution Network for Personalized Recommendation of Micro-video](http://staff.ustc.edu.cn/~hexn/papers/mm19-MMGCN.pdf)]
 </p>
